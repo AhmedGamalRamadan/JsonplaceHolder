@@ -1,5 +1,7 @@
 # Clean-Architecture-App-with-Retrofit
 
+* API (https://jsonplaceholder.typicode.com/posts)
+
 ## Built With
 * [Kotlin](https://kotlinlang.org)
 * [View Binding](https://developer.android.com/topic/libraries/view-binding)
